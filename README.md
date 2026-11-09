@@ -1,12 +1,11 @@
-<!-- Profile banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:0F766E&height=190&section=header&text=Fahim&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20HSC%20Science%20Student&descAlignY=60&descSize=16" alt="Fahim — Aspiring Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1D4ED8,100:0F766E&height=190&section=header&text=Fahim&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Development%20%7C%20Science%20Student&descAlignY=60&descSize=16" alt="Fahim — Full-Stack Web Development" />
 </p>
 
 <h1 align="center">Hi, I'm Fahim 👋</h1>
 <p align="center">
-  <strong>Aspiring Full-Stack Developer · JavaScript · React · Node.js · MongoDB</strong><br />
-  HSC Science Student | Sylhet, Bangladesh
+  <strong>Aspiring Full-Stack Developer | JavaScript · React · Node.js · MongoDB</strong><br />
+  HSC Science Student · Sylhet, Bangladesh
 </p>
 
 <p align="center">
@@ -17,81 +16,62 @@
 
 ---
 
-I'm **MD. Minhazur Rahman Fahim**, an HSC Science student from Bangladesh focused on learning by building practical web applications. I enjoy turning ideas into functional digital products, improving my software engineering fundamentals, and exploring AI-powered applications.
+I'm **MD. Minhazur Rahman Fahim**, a science student in Bangladesh learning software development through hands-on projects. I enjoy building responsive web interfaces, connecting applications to APIs and databases, and improving my engineering fundamentals.
 
-- 🌍 Based in **Sylhet, Bangladesh**
-- 🎓 HSC Science Student — **Blue Bird High School & College**
-- 💻 Interested in **frontend and full-stack web development**
-- 🧩 Building with JavaScript, React, Node.js, Express, and MongoDB
-- 🚀 Exploring AI, automation, and machine learning fundamentals
+- 🎓 HSC Science student at **Blue Bird High School & College**
+- 📍 Sylhet, Bangladesh
+- 💻 Focus areas: frontend development, full-stack web applications, and backend fundamentals
+- 🌱 Exploring Python, AI applications, and automation
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Bootstrap · Tailwind CSS · Vite
 
-**Also working with:** REST APIs, Mongoose, JWT authentication, bcrypt, Vite, Postman, and GitHub.
+**Backend & Data:** Node.js · Express.js · TypeScript · MongoDB · Mongoose · REST APIs · JWT
 
-## 🚀 Featured Projects
+**Tools:** Git · GitHub · Postman · Figma · Python · C++
 
-### 1. BlogSpace — Full-Stack Blogging Application
-A full-stack blogging project with user authentication, protected author dashboard, blog CRUD operations, and MongoDB persistence.
+## Featured Projects
 
-**Stack:** Node.js · Express · TypeScript · MongoDB · Mongoose · JWT · bcrypt
+### BlogSpace — Full-Stack Blogging Application
+A learning-focused full-stack application with registration/login, protected author workflows, blog CRUD operations, and MongoDB persistence.
 
-[View source code →](https://github.com/fahim1252375-maker/blogspace-fullstack)
+- **Stack:** Node.js, Express, TypeScript, MongoDB, Mongoose, JWT, bcryptjs
+- **Source:** [View repository](https://github.com/fahim1252375-maker/blogspace-fullstack)
 
-### 2. BlogSpace — Frontend Demo
-A responsive multi-page blogging interface with article search, category filtering, an author dashboard, and browser-based demo persistence.
+### BlogSpace — Frontend Application
+A responsive multi-page blogging interface with search, category filters, an author dashboard, and browser-based demo persistence.
 
-**Stack:** HTML · CSS · JavaScript · LocalStorage · Vite
+- **Stack:** HTML, CSS, JavaScript, Vite, LocalStorage
+- **Demo:** [Open live demo](https://bejewelled-haupia-dd6200.netlify.app)
+- **Source:** [View repository](https://github.com/fahim1252375-maker/blog-application-frontend)
 
-[View source code →](https://github.com/fahim1252375-maker/blog-application-frontend)
+### Restaurant Website — Frontend Concept
+A responsive restaurant website concept featuring mobile navigation, menu filtering, a gallery, and a WhatsApp-based reservation-request handoff.
 
-### 3. Restaurant Website — Frontend Concept
-A responsive restaurant website concept featuring menu filtering, gallery interactions, mobile navigation, and a WhatsApp-based reservation request handoff.
+- **Stack:** HTML, CSS, Vanilla JavaScript
+- **Source:** [View repository](https://github.com/fahim1252375-maker/restaurant-website-frontend)
 
-**Stack:** HTML · CSS · JavaScript
+## Learning & Recognition
 
-[View source code →](https://github.com/fahim1252375-maker/restaurant-website-frontend)
-
-## 🏅 Certifications & Activities
-
-- **Certificate of Excellence — Full Stack Development with MERN**, Grameenphone Academy × CodersTrust
-- **Best Project / Best Performer**, IT Aid Web Design Course
+- **Certificate of Excellence — Full Stack Development with MERN**, Grameenphone Academy × CodersTrust (October 2026)
+- **Best Project / Best Performer recognition**, IT Aid Web Design Course
 - Microsoft Learn technical learning badges
-- Model United Nations and debate activities
-- STEM learning, technology competitions, and volunteering
+- Model United Nations, debate, STEM learning, and volunteering activities
 
-## 🌱 Currently Learning
+## Current Focus
 
-- Strengthening JavaScript, TypeScript, and React
-- Full-stack application architecture and backend security
-- Python and machine learning fundamentals
-- AI-powered applications and automation
+- Strengthening JavaScript, TypeScript, React, and backend development
+- Building reliable APIs and database-backed applications
+- Improving application security, testing, and deployment practices
+- Learning Python and machine-learning fundamentals
 
-## 📫 Let's Connect
+## Contact
 
 - **LinkedIn:** [MD. Minhazur Rahman Fahim](https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/)
-- **GitHub:** [@fahim1252375-maker](https://github.com/fahim1252375-maker)
 - **Email:** [fahim1252375@icloud.com](mailto:fahim1252375@icloud.com)
+- **GitHub:** [@fahim1252375-maker](https://github.com/fahim1252375-maker)
 
 ---
 
-<p align="center">
-  <em>Learning consistently · Building practically · Growing through technology</em>
-</p>
+<p align="center"><em>Learning by building. Improving through iteration.</em></p>
