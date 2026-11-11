@@ -68,6 +68,21 @@ A responsive restaurant website concept with an interactive menu, gallery, mobil
 - The WhatsApp handoff prepares a request; it does not confirm or store bookings
 - **Source:** [restaurant-website-frontend](https://github.com/fahim1252375-maker/restaurant-website-frontend)
 
+
+## Open Source Contributions
+
+I contribute to established open-source projects by investigating reported issues, writing focused fixes, and adding regression tests.
+
+### Neo.js — Open-source JavaScript Framework
+
+- **Merged — [PR #20746: Enhance download tests and document BlobPart functionality](https://github.com/neomjs/neo/pull/20746)**  
+  Clarified the `FileDownload#saveText` API documentation for text and binary `BlobPart` payloads and added focused Playwright unit tests for string and `Uint8Array` downloads.
+
+- **Open — [PR #20785: Fix UUID generation on insecure HTTP origins](https://github.com/neomjs/neo/pull/20785)**  
+  Adds a shared UUID utility based on `crypto.getRandomValues()`, replaces browser-side `crypto.randomUUID()` calls, and adds unit and browser regression coverage for plain HTTP origins. CI checks are still running; this contribution is not yet merged.
+
+Both pull requests target the project's `dev` branch and include disclosure of AI assistance. I review and take responsibility for the code and tests I submit.
+
 ## Engineering Practice
 
 Recent BlogSpace work has helped me practise engineering beyond interface development:
