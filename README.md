@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://grand-starlight-0c4115.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" /></a>
   <a href="https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:fahim1252375@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/fahim1252375-maker"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -101,6 +102,7 @@ AI tools may be used as supporting tools for brainstorming, explaining unfamilia
 
 ## Connect
 
+- **Portfolio:** [Visit my personal portfolio](https://grand-starlight-0c4115.netlify.app)
 - **LinkedIn:** [MD. Minhazur Rahman Fahim](https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/)
 - **Email:** [fahim1252375@icloud.com](mailto:fahim1252375@icloud.com)
 - **GitHub:** [@fahim1252375-maker](https://github.com/fahim1252375-maker)
