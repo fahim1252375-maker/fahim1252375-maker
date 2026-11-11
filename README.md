@@ -12,7 +12,7 @@
   <a href="https://grand-starlight-0c4115.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" /></a>
   <a href="https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:fahim1252375@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/fahim1252375-maker"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/fahim1252375-maker?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
 </p>
 
 ---
@@ -89,6 +89,12 @@ Recent BlogSpace work has helped me practise engineering beyond interface develo
 - Studying machine-learning concepts through a personal [study fork of Microsoft's ML-For-Beginners curriculum](https://github.com/fahim1252375-maker/ML-For-Beginners)
 - Model United Nations, debate, STEM learning, and community volunteering
 
+## Collaboration
+
+I'm interested in thoughtful collaboration on beginner-friendly open-source work, frontend and full-stack applications, API development, and practical AI automation. I value clear communication, useful feedback, and code that can be understood and maintained.
+
+For a project discussion, contact me through [LinkedIn](https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/) or [email](mailto:fahim1252375@icloud.com), or open an issue in the relevant repository.
+
 ## Current Focus
 
 - Strengthening React, JavaScript, TypeScript, and Node.js foundations
@@ -98,7 +104,7 @@ Recent BlogSpace work has helped me practise engineering beyond interface develo
 
 ## AI Use & Development Transparency
 
-AI tools may be used as supporting tools for brainstorming, explaining unfamiliar concepts, debugging, and drafting documentation. I remain responsible for understanding, reviewing, adapting, and testing the work I publish. AI-generated suggestions are not treated as verified results unless checked against the project and its tests. I aim to describe project capabilities and my own contributions accurately.
+I may use AI tools as supporting aids for brainstorming, understanding unfamiliar concepts, debugging, and drafting documentation. AI is not a substitute for my own learning or review: I am responsible for understanding, adapting, and testing the work I publish. I do not treat AI-generated suggestions as verified results until I check them against the code and relevant tests. Where relevant, AI assistance is disclosed in project documentation, and I aim to describe my own contributions and project capabilities accurately.
 
 ## Connect
 
