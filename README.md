@@ -73,15 +73,17 @@ A responsive restaurant website concept with an interactive menu, gallery, mobil
 
 I contribute to established open-source projects by investigating reported issues, writing focused fixes, and adding regression tests.
 
-### Neo.js — Open-source JavaScript Framework
+### Neo.mjs — Open-source JavaScript Framework
 
 - **Merged — [PR #20746: Enhance download tests and document BlobPart functionality](https://github.com/neomjs/neo/pull/20746)**  
-  Clarified the `FileDownload#saveText` API documentation for text and binary `BlobPart` payloads and added focused Playwright unit tests for string and `Uint8Array` downloads.
+  Clarified the `FileDownload#saveText` API documentation for text and binary `BlobPart` payloads and added focused Playwright unit tests for string and `Uint8Array` downloads. The targeted local test run passed (2 tests).
 
-- **Open — [PR #20785: Fix UUID generation on insecure HTTP origins](https://github.com/neomjs/neo/pull/20785)**  
-  Adds a shared UUID utility based on `crypto.getRandomValues()`, replaces browser-side `crypto.randomUUID()` calls, and adds unit and browser regression coverage for plain HTTP origins. CI checks are still running; this contribution is not yet merged.
+- **Merged — [PR #20785: Fix UUID generation on insecure HTTP origins](https://github.com/neomjs/neo/pull/20785)**  
+  Resolved [issue #20765](https://github.com/neomjs/neo/issues/20765). Added a shared RFC 4122 v4 UUID utility using `crypto.getRandomValues()`, replaced browser-side `crypto.randomUUID()` usage across 18 call sites, and updated `CanvasGroups.mint()` while preserving its existing 32-character hexadecimal ID format. Added unit coverage and a Playwright component regression test for non-localhost plain-HTTP origins.  
+  **Change size:** 13 files, 119 additions, 26 deletions; 3 commits.  
+  **Verification:** The reviewer recorded all 7 required CI checks as green. GitHub workflow runs for unit/component tests, all 14 E2E engine shards, build, consumer runtime build, CodeQL, and file-size guard completed successfully. The PR description transparently notes that local tests were not run; CI provided the verification.
 
-Both pull requests target the project's `dev` branch and include disclosure of AI assistance. I review and take responsibility for the code and tests I submit.
+Both pull requests were merged into the project's `dev` branch. AI assistance is disclosed in each PR; I am responsible for reviewing and maintaining the contributions I submit.
 
 ## Engineering Practice
 
