@@ -39,6 +39,24 @@ I'm **MD. Minhazur Rahman Fahim**, a science student from Bangladesh developing 
 
 ## Selected Projects
 
+### FloodGuard AI — Flood & Health Preparedness Prototype
+
+A bilingual decision-support prototype focused on flood preparedness and health-response planning in the Sylhet–Sunamganj region of Bangladesh.
+
+- Combines weather context, modelled hydrological inputs, transparent risk indicators, family safety planning, shelter-readiness workflows, and community-report moderation.
+- Separates operational API data, derived indicators, and simulated examples in the interface and documentation.
+- Explicitly documents that it is a research/demo prototype—not an official warning service, clinically validated disease forecast, or guaranteed safe-route system.
+- **Source and technical documentation:** [floodguard-ai](https://github.com/fahim1252375-maker/floodguard-ai)
+
+### ShasthoNote AI — Bangla-English Health Information Workspace
+
+A health-information organization prototype for preparing for clinical conversations.
+
+- Organizes consultation notes, documents, appointments, self-recorded measurements, and learning materials.
+- Uses AI-assisted summaries and explanations while stating that the application is not a diagnostic or treatment system.
+- Documents synthetic demo data, privacy boundaries, CI checks, and limitations of integration testing.
+- **Source and technical documentation:** [shasthonote-ai](https://github.com/fahim1252375-maker/shasthonote-ai)
+
 ### BlogSpace — Full-Stack Blogging Application
 
 A full-stack blogging application combining a browser-based interface, Node.js/Express API, and MongoDB persistence.
@@ -75,6 +93,12 @@ I contribute to established open-source projects by investigating reported issue
 
 ### Neo.mjs — Open-source JavaScript Framework
 
+- **Merged — [PR #20785: Fix UUID generation on insecure HTTP origins](https://github.com/neomjs/neo/pull/20785)**  
+  Added a shared RFC 4122 v4 UUID utility based on `crypto.getRandomValues()`, migrated browser-side call sites away from `crypto.randomUUID()`, preserved the existing `CanvasGroups.mint()` ID format, and added regression coverage for insecure HTTP origins. The pull request changed 13 files; the reviewer recorded all 7 required CI checks as green. The PR description notes that local tests were not run, so the verification claim is specifically about CI.
+
+- **Merged — [PR #20746: Enhance download tests and document BlobPart functionality](https://github.com/neomjs/neo/pull/20746)**  
+  Clarified the `FileDownload#saveText` API documentation for text and binary `BlobPart` payloads and added focused Playwright unit tests for string and `Uint8Array` downloads. The targeted local test run passed (2 tests).
+
 - **Merged — [PR #20746: Enhance download tests and document BlobPart functionality](https://github.com/neomjs/neo/pull/20746)**  
   Clarified the `FileDownload#saveText` API documentation for text and binary `BlobPart` payloads and added focused Playwright unit tests for string and `Uint8Array` downloads. The targeted local test run passed (2 tests).
 
@@ -84,6 +108,16 @@ I contribute to established open-source projects by investigating reported issue
   **Verification:** The reviewer recorded all 7 required CI checks as green. GitHub workflow runs for unit/component tests, all 14 E2E engine shards, build, consumer runtime build, CodeQL, and file-size guard completed successfully. The PR description transparently notes that local tests were not run; CI provided the verification.
 
 Both pull requests were merged into the project's `dev` branch. AI-assisted development was disclosed in the originating #20736 issue discussion and in the #20785 PR description. I am responsible for reviewing and maintaining the contributions I submit.
+
+### Microsoft — ML-For-Beginners
+
+- **Open — [PR #1082: Migrate Gym examples to Gymnasium](https://github.com/microsoft/ML-For-Beginners/pull/1082)**  
+  Updated the reinforcement-learning lesson materials to use Gymnasium APIs, including the `terminated`/`truncated` step results. The pull request is open and awaiting maintainer review as of November 13, 2026; it is not presented as merged or approved.
+
+
+## Application Evidence Index
+
+For a concise, status-labelled index of selected projects, merged upstream contributions, work under review, and evidence limitations, see [APPLICATION_EVIDENCE.md](./APPLICATION_EVIDENCE.md).
 
 ## Engineering Practice
 
