@@ -83,7 +83,7 @@ I contribute to established open-source projects by investigating reported issue
   **Change size:** 13 files, 119 additions, 26 deletions; 3 commits.  
   **Verification:** The reviewer recorded all 7 required CI checks as green. GitHub workflow runs for unit/component tests, all 14 E2E engine shards, build, consumer runtime build, CodeQL, and file-size guard completed successfully. The PR description transparently notes that local tests were not run; CI provided the verification.
 
-Both pull requests were merged into the project's `dev` branch. AI assistance is disclosed in each PR; I am responsible for reviewing and maintaining the contributions I submit.
+Both pull requests were merged into the project's `dev` branch. AI-assisted development was disclosed in the originating #20736 issue discussion and in the #20785 PR description. I am responsible for reviewing and maintaining the contributions I submit.
 
 ## Engineering Practice
 
