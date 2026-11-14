@@ -77,7 +77,7 @@ See the [Application Evidence Index](./APPLICATION_EVIDENCE.md) for a status-lab
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript- ES202x-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-typed-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-learning-00599C?logo=cplusplus&logoColor=white)
