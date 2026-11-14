@@ -160,7 +160,7 @@ A student-opportunity platform for evidence-based verification, eligibility inte
 </td>
 </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim1252375-maker&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&color=58A6FF&line=58A6FF&point=3FB950&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim1252375-maker&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </div>
 
 ---
