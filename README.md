@@ -32,19 +32,27 @@ A bilingual flood and community-preparedness prototype focused on north-eastern 
 
 ---
 
+### [ProofPath AI](https://github.com/fahim1252375-maker/proofpath-ai)
+A student opportunity intelligence platform for exploring scholarships and internships, checking claims against evidence, and organising applications.
+
+- [Live demo (Render)](https://proofpath-ai-demo.onrender.com)
+- Free-tier demo note: SQLite data may reset after restarts; Gemini-backed features require an API key.
+
 ## Project directory
 
-The table lists all nine public repositories found in the connected GitHub account. Deployment links are included only where a repository-to-service relationship was visible in the connected platform configuration. A live deployment does not, by itself, mean every feature or external integration has been production-validated.
+The table lists all eleven public repositories found in the connected GitHub account. Deployment links are included only where a repository-to-service relationship was visible in the connected platform configuration. A live deployment does not, by itself, mean every feature or external integration has been production-validated.
 
 | Project / repository | Category | Main technologies | Source | Live deployment |
 |---|---|---|---|---|
-| BlogSpace Full Stack | Full-stack application | TypeScript, Node.js, Express, MongoDB, Mongoose, JWT | [Repository](https://github.com/fahim1252375-maker/blogspace-fullstack) | [Render API](https://blogspace-fullstack.onrender.com) |
+| BlogSpace Full Stack | Full-stack application | TypeScript, Node.js, Express, MongoDB, Mongoose, JWT | [Repository](https://github.com/fahim1252375-maker/blogspace-fullstack) | [Render app](https://blogspace-fullstack.onrender.com) · [Frontend demo](https://blogspace-frontend-demo.onrender.com) |
 | ShasthoNote AI | Full-stack / AI-assisted health organiser prototype | TypeScript, Node.js, Express, Firebase, Firestore, AI API integration | [Repository](https://github.com/fahim1252375-maker/shasthonote-ai) | [Render](https://shasthonote-ai.onrender.com) |
 | FloodGuard AI | Applied AI / civic-tech prototype | JavaScript, Node.js, web mapping, weather/data integrations | [Repository](https://github.com/fahim1252375-maker/floodguard-ai) | [Netlify](https://flourishing-torrone-237daf.netlify.app) · [Render](https://floodguard-ai-39jz.onrender.com) |
-| BlogSpace Frontend | Frontend application | JavaScript, React, HTML, CSS, Vite | [Repository](https://github.com/fahim1252375-maker/blog-application-frontend) | [Render static site](https://blogspace-frontend-demo.onrender.com) |
+| ProofPath AI | Student opportunity intelligence and verification platform | TypeScript, React, Express, SQLite, Gemini API | [Repository](https://github.com/fahim1252375-maker/proofpath-ai) | [Render demo](https://proofpath-ai-demo.onrender.com) |
+| BlogSpace Frontend | Frontend application | JavaScript, React, HTML, CSS, Vite | [Repository](https://github.com/fahim1252375-maker/blog-application-frontend) | [Netlify demo](https://bejewelled-haupia-dd6200.netlify.app) · [Render static site](https://blogspace-frontend-demo.onrender.com) |
 | Cinnamon Restaurant Website | Frontend website | HTML, CSS, JavaScript | [Repository](https://github.com/fahim1252375-maker/restaurant-website-frontend) | [Render static site](https://cinnamon-restaurant-concept.onrender.com) |
 | Developer Portfolio | Portfolio website | HTML, CSS, JavaScript | [Repository](https://github.com/fahim1252375-maker/progree-task-2-portfolio) | [Render static site](https://fahim-developer-portfolio.onrender.com) · [Current portfolio](https://grand-starlight-0c4115.netlify.app) |
 | GitHub Profile | Profile documentation | Markdown | [Repository](https://github.com/fahim1252375-maker/fahim1252375-maker) | This profile |
+| SortSight AI | AI-assisted sorting prototype | Applied AI project | [Repository](https://github.com/fahim1252375-maker/sortsight-ai) | No live deployment yet |
 | Neo.mjs | Open-source contribution fork | JavaScript, Sencha/Ext JS ecosystem, Node.js | [Repository](https://github.com/fahim1252375-maker/neo) | Upstream project: [neomjs/neo](https://github.com/neomjs/neo) |
 | ML-For-Beginners | Open-source contribution fork | Python, Jupyter Notebook, machine-learning education | [Repository](https://github.com/fahim1252375-maker/ML-For-Beginners) | Upstream project: [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) |
 
