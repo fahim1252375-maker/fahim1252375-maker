@@ -18,7 +18,7 @@ Sylhet, Bangladesh
 <a href="https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn" /></a>
 <a href="mailto:fahim1252375@icloud.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=icloud&logoColor=58A6FF&labelColor=161B22" alt="Email" /></a>
 
-[<img src="https://img.shields.io/badge/RESUME-OPEN%20PUBLIC%20PROFILE-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Open public resume" />](./RESUME.md)
+[<img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20PDF-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Download public resume PDF" />](./FAHIM-Developer-Resume.pdf) · [Text version](./RESUME.md)
 
 </div>
 
