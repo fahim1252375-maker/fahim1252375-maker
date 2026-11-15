@@ -37,13 +37,14 @@ I work primarily with JavaScript, TypeScript, React, Node.js, Express, MongoDB, 
 <td width="50%" valign="top">
 
 ### AccessPath
-<a href="https://accesspath-campus-demo.onrender.com"><img src="https://img.shields.io/badge/PREVIEW-3FB950?style=flat-square&labelColor=161B22" alt="Preview" /></a>
 
-A campus accessibility platform exploring verified route planning, community barrier reports, and facilities workflows.
+<sub>STUDENT PROJECT · REPOSITORY PREVIEW</sub>
+
+A campus accessibility platform exploring route planning, community barrier reports, and facilities workflows.
 
 <sub>React · TypeScript · Node.js · MongoDB · Leaflet</sub>
 
-[Preview ↗](https://accesspath-campus-demo.onrender.com) · [Code &lt;/&gt;](https://github.com/fahim1252375-maker/AccessPath-Full-Stack)
+[Repository &lt;/&gt;](https://github.com/fahim1252375-maker/AccessPath-Full-Stack)
 
 </td>
 <td width="50%" valign="top">
