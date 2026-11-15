@@ -18,7 +18,7 @@ Sylhet, Bangladesh
 <a href="https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn" /></a>
 <a href="mailto:fahim1252375@icloud.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=icloud&logoColor=58A6FF&labelColor=161B22" alt="Email" /></a>
 
-[<img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20PDF-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Download public resume PDF" />](./FAHIM-Developer-Resume.pdf) · [Text version](./RESUME.md)
+[<img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20PDF-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Download public resume PDF" />](https://github.com/fahim1252375-maker/fahim1252375-maker/blob/main/FAHIM-Developer-Resume.pdf?raw=1) · [Text version](./RESUME.md)
 
 </div>
 
@@ -152,7 +152,7 @@ A student-opportunity platform for evidence-based verification, eligibility inte
 
 <div align="center">
 
-<img src="./assets/brand/github-analytics.svg" width="100%" alt="GitHub activity snapshot: 12 public repositories including forks, 2 merged Neo.mjs pull requests, and 1 open Microsoft ML-For-Beginners pull request, as of 15 November 2026" />
+<img src="https://raw.githubusercontent.com/fahim1252375-maker/fahim1252375-maker/main/assets/brand/github-analytics.svg" width="100%" alt="GitHub activity snapshot: 12 public repositories including forks, 2 merged Neo.mjs pull requests, and 1 open Microsoft ML-For-Beginners pull request, as of 15 November 2026" />
 
 </div>
 
