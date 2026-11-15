@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">MD Minhazur Rahman Fahim — Student Software Developer</title>
+<desc id="desc">Full-stack development, applied AI, civic technology, and open-source engineering.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset=".62" stop-color="#161B22"/><stop offset="1" stop-color="#10294A"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#30363D" stroke-opacity=".5"/></pattern>
+</defs>
+<rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="280" rx="22" fill="url(#grid)"/>
+<circle cx="1070" cy="85" r="205" fill="none" stroke="#58A6FF" stroke-opacity=".18" stroke-width="2"/>
+<circle cx="1070" cy="85" r="150" fill="none" stroke="#58A6FF" stroke-opacity=".15" stroke-width="2"/>
+<circle cx="1070" cy="85" r="95" fill="none" stroke="#3FB950" stroke-opacity=".2" stroke-width="2"/>
+<rect x="64" y="48" width="42" height="42" rx="11" fill="#161B22" stroke="#58A6FF" stroke-width="2"/>
+<path d="M76 69h18M85 60v18" stroke="#58A6FF" stroke-width="2.5" stroke-linecap="round"/>
+<text x="126" y="76" fill="#8B949E" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">FAHIM / SOFTWARE ENGINEERING</text>
+<text x="64" y="160" fill="#F0F6FC" font-family="Arial,sans-serif" font-size="43" font-weight="700">MD MINHAZUR RAHMAN FAHIM</text>
+<text x="66" y="200" fill="#58A6FF" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="2">FULL-STACK DEVELOPMENT  /  APPLIED AI  /  CIVIC TECH</text>
+<text x="66" y="235" fill="#C9D1D9" font-family="Arial,sans-serif" font-size="15">Student Software Developer · Sylhet, Bangladesh</text>
+<rect x="1040" y="226" width="92" height="4" rx="2" fill="#3FB950"/>
+</svg>
