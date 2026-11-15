@@ -15,7 +15,7 @@
 <rect x="736" y="82" width="316" height="174" rx="16" fill="#161B22" stroke="#30363D"/>
 <text x="76" y="139" fill="#58A6FF" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">12</text>
 <text x="76" y="177" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600">PUBLIC REPOSITORIES</text>
-<text x="76" y="209" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13">Personal account · repository listing</text>
+<text x="76" y="209" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13">Public account listing · includes forks</text>
 <text x="420" y="139" fill="#3FB950" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">02</text>
 <text x="420" y="177" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600">MERGED UPSTREAM PRs</text>
 <text x="420" y="209" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13">Neo.mjs · #20746 and #20785</text>
