@@ -18,7 +18,7 @@ Sylhet, Bangladesh
 <a href="https://www.linkedin.com/in/md-minhazur-rahman-fahim-469b03447/"><img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=161B22" alt="LinkedIn" /></a>
 <a href="mailto:fahim1252375@icloud.com"><img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=icloud&logoColor=58A6FF&labelColor=161B22" alt="Email" /></a>
 
-<sub>Resume link will be added when a public PDF or portfolio resume URL is available.</sub>
+[<img src="https://img.shields.io/badge/RESUME-OPEN%20PUBLIC%20PROFILE-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Open public resume" />](./RESUME.md)
 
 </div>
 
@@ -150,18 +150,14 @@ A student-opportunity platform for evidence-based verification, eligibility inte
 ## GITHUB ANALYTICS
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fahim1252375-maker&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" width="100%" alt="GitHub contribution statistics" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim1252375-maker&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Most used programming languages" />
-</td>
-</tr>
-</table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahim1252375-maker&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+<img src="./assets/brand/github-analytics.svg" width="100%" alt="GitHub activity snapshot: 12 public repositories, 2 merged Neo.mjs pull requests, and 1 open Microsoft ML-For-Beginners pull request, as of 15 November 2026" />
+
 </div>
+
+**Verified contribution links:** [Neo.mjs #20746](https://github.com/neomjs/neo/pull/20746) · [Neo.mjs #20785](https://github.com/neomjs/neo/pull/20785) · [Microsoft ML-For-Beginners #1082 — open](https://github.com/microsoft/ML-For-Beginners/pull/1082)
+
+<sub>This is a self-hosted static snapshot, not a live analytics feed. It avoids third-party stats-card services that may rate-limit or fail to load.</sub>
 
 ---
 
