@@ -6,7 +6,7 @@ Accent #58A6FF | Status #3FB950 | Muted #8B949E
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:1F6FEB&height=190&section=header&text=MD%20MINHAZUR%20RAHMAN%20FAHIM&fontSize=34&fontColor=F0F6FC&fontAlignY=38&desc=FULL-STACK%20DEVELOPMENT%20%2F%20APPLIED%20AI%20%2F%20CIVIC%20TECH&descAlignY=61&descSize=13&animation=fadeIn" width="100%" alt="MD Minhazur Rahman Fahim — Full-stack development, applied AI and civic technology" />
+<img src="./assets/brand/profile-hero.svg" width="100%" alt="MD Minhazur Rahman Fahim — Full-stack development, applied AI and civic technology" />
 
 # MD Minhazur Rahman Fahim
 
