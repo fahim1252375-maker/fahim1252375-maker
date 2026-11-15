@@ -151,7 +151,7 @@ A student-opportunity platform for evidence-based verification, eligibility inte
 
 <div align="center">
 
-<img src="./assets/brand/github-analytics.svg" width="100%" alt="GitHub activity snapshot: 12 public repositories, 2 merged Neo.mjs pull requests, and 1 open Microsoft ML-For-Beginners pull request, as of 15 November 2026" />
+<img src="./assets/brand/github-analytics.svg" width="100%" alt="GitHub activity snapshot: 12 public repositories including forks, 2 merged Neo.mjs pull requests, and 1 open Microsoft ML-For-Beginners pull request, as of 15 November 2026" />
 
 </div>
 
