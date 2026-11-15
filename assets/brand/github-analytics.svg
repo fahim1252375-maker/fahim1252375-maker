@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+<title id="title">GitHub activity snapshot for Fahim</title>
+<desc id="desc">A public activity snapshot dated November 15, 2026: 12 public repositories, 2 merged Neo.mjs pull requests, and 1 open Microsoft ML for Beginners pull request.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#132B49"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#30363D" stroke-opacity=".45"/></pattern>
+</defs>
+<rect width="1100" height="330" rx="22" fill="url(#bg)"/>
+<rect width="1100" height="330" rx="22" fill="url(#grid)"/>
+<text x="54" y="54" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="14" letter-spacing="3">GITHUB ACTIVITY / PUBLIC SNAPSHOT</text>
+<text x="1046" y="54" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13" text-anchor="end">15 NOV 2026</text>
+<g>
+<rect x="48" y="82" width="316" height="174" rx="16" fill="#161B22" stroke="#30363D"/>
+<rect x="392" y="82" width="316" height="174" rx="16" fill="#161B22" stroke="#30363D"/>
+<rect x="736" y="82" width="316" height="174" rx="16" fill="#161B22" stroke="#30363D"/>
+<text x="76" y="139" fill="#58A6FF" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">12</text>
+<text x="76" y="177" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600">PUBLIC REPOSITORIES</text>
+<text x="76" y="209" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13">Personal account · repository listing</text>
+<text x="420" y="139" fill="#3FB950" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">02</text>
+<text x="420" y="177" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600">MERGED UPSTREAM PRs</text>
+<text x="420" y="209" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13">Neo.mjs · #20746 and #20785</text>
+<text x="764" y="139" fill="#D2A8FF" font-family="Inter,Arial,sans-serif" font-size="48" font-weight="700">01</text>
+<text x="764" y="177" fill="#F0F6FC" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600">OPEN UPSTREAM PR</text>
+<text x="764" y="209" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="13">Microsoft ML-For-Beginners · #1082</text>
+</g>
+<path d="M54 282H1046" stroke="#30363D"/>
+<text x="54" y="307" fill="#8B949E" font-family="Inter,Arial,sans-serif" font-size="12">Static snapshot · counts are not live API metrics</text>
+<text x="1046" y="307" fill="#58A6FF" font-family="Inter,Arial,sans-serif" font-size="12" text-anchor="end">github.com/fahim1252375-maker</text>
+</svg>
