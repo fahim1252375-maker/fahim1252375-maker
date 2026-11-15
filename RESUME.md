@@ -1,3 +1,5 @@
+[Download the PDF resume](./FAHIM-Developer-Resume.pdf)
+
 # MD Minhazur Rahman Fahim
 
 **Student Software Developer | Full-Stack Web Development | Applied AI & Civic Tech**
