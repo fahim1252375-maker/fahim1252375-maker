@@ -1,4 +1,4 @@
-[Download the PDF resume](./FAHIM-Developer-Resume.pdf)
+[Download the public PDF resume](https://github.com/fahim1252375-maker/fahim1252375-maker/blob/main/FAHIM-Developer-Resume.pdf?raw=1)
 
 # MD Minhazur Rahman Fahim
 
